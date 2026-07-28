@@ -1,0 +1,182 @@
+[
+  {
+    "id": "STU_001",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Aarav+Sharma&background=6366f1&color=fff&size=128&bold=true",
+    "attendance": 92,
+    "overallCompletion": 78,
+    "phone": "+919876543201"
+  },
+  {
+    "id": "STU_002",
+    "name": "Priya Patel",
+    "email": "priya.patel@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Priya+Patel&background=8b5cf6&color=fff&size=128&bold=true",
+    "attendance": 88,
+    "overallCompletion": 65,
+    "phone": "+919876543202"
+  },
+  {
+    "id": "STU_003",
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Rohan+Mehta&background=06b6d4&color=fff&size=128&bold=true",
+    "attendance": 95,
+    "overallCompletion": 91,
+    "phone": "+919876543203"
+  },
+  {
+    "id": "STU_004",
+    "name": "Ananya Singh",
+    "email": "ananya.singh@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Ananya+Singh&background=f59e0b&color=fff&size=128&bold=true",
+    "attendance": 79,
+    "overallCompletion": 55,
+    "phone": "+919876543204"
+  },
+  {
+    "id": "STU_005",
+    "name": "Kabir Nair",
+    "email": "kabir.nair@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Kabir+Nair&background=10b981&color=fff&size=128&bold=true",
+    "attendance": 97,
+    "overallCompletion": 100,
+    "phone": "+919876543205"
+  },
+  {
+    "id": "STU_006",
+    "name": "Ishaan Gupta",
+    "email": "ishaan.gupta@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Ishaan+Gupta&background=ef4444&color=fff&size=128&bold=true",
+    "attendance": 83,
+    "overallCompletion": 62,
+    "phone": "+919876543206"
+  },
+  {
+    "id": "STU_007",
+    "name": "Meera Iyer",
+    "email": "meera.iyer@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Meera+Iyer&background=ec4899&color=fff&size=128&bold=true",
+    "attendance": 90,
+    "overallCompletion": 83,
+    "phone": "+919876543207"
+  },
+  {
+    "id": "STU_008",
+    "name": "Vikram Rao",
+    "email": "vikram.rao@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Vikram+Rao&background=f97316&color=fff&size=128&bold=true",
+    "attendance": 74,
+    "overallCompletion": 44,
+    "phone": "+919876543208"
+  },
+  {
+    "id": "STU_009",
+    "name": "Diya Krishnamurthy",
+    "email": "diya.krishnamurthy@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Diya+Krishnamurthy&background=14b8a6&color=fff&size=128&bold=true",
+    "attendance": 98,
+    "overallCompletion": 97,
+    "phone": "+919876543209"
+  },
+  {
+    "id": "STU_010",
+    "name": "Arjun Verma",
+    "email": "arjun.verma@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Arjun+Verma&background=6366f1&color=fff&size=128&bold=true",
+    "attendance": 86,
+    "overallCompletion": 70,
+    "phone": "+919876543210"
+  },
+  {
+    "id": "STU_011",
+    "name": "Riya Joshi",
+    "email": "riya.joshi@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Riya+Joshi&background=a855f7&color=fff&size=128&bold=true",
+    "attendance": 91,
+    "overallCompletion": 76,
+    "phone": "+919876543211"
+  },
+  {
+    "id": "STU_012",
+    "name": "Siddharth Kapoor",
+    "email": "siddharth.kapoor@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Siddharth+Kapoor&background=0ea5e9&color=fff&size=128&bold=true",
+    "attendance": 77,
+    "overallCompletion": 50,
+    "phone": "+919876543212"
+  },
+  {
+    "id": "STU_013",
+    "name": "Neha Agarwal",
+    "email": "neha.agarwal@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Neha+Agarwal&background=d97706&color=fff&size=128&bold=true",
+    "attendance": 93,
+    "overallCompletion": 88,
+    "phone": "+919876543213"
+  },
+  {
+    "id": "STU_014",
+    "name": "Aditya Kumar",
+    "email": "aditya.kumar@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Aditya+Kumar&background=059669&color=fff&size=128&bold=true",
+    "attendance": 85,
+    "overallCompletion": 67,
+    "phone": "+919876543214"
+  },
+  {
+    "id": "STU_015",
+    "name": "Pooja Mishra",
+    "email": "pooja.mishra@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Pooja+Mishra&background=dc2626&color=fff&size=128&bold=true",
+    "attendance": 69,
+    "overallCompletion": 38,
+    "phone": "+919876543215"
+  },
+  {
+    "id": "STU_016",
+    "name": "Harsh Malhotra",
+    "email": "harsh.malhotra@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Harsh+Malhotra&background=7c3aed&color=fff&size=128&bold=true",
+    "attendance": 96,
+    "overallCompletion": 94,
+    "phone": "+919876543216"
+  },
+  {
+    "id": "STU_017",
+    "name": "Shreya Bose",
+    "email": "shreya.bose@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Shreya+Bose&background=0891b2&color=fff&size=128&bold=true",
+    "attendance": 89,
+    "overallCompletion": 72,
+    "phone": "+919876543217"
+  },
+  {
+    "id": "STU_018",
+    "name": "Tanvir Sheikh",
+    "email": "tanvir.sheikh@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Tanvir+Sheikh&background=16a34a&color=fff&size=128&bold=true",
+    "attendance": 81,
+    "overallCompletion": 58,
+    "phone": "+919876543218"
+  },
+  {
+    "id": "STU_019",
+    "name": "Lakshmi Nambiar",
+    "email": "lakshmi.nambiar@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Lakshmi+Nambiar&background=b45309&color=fff&size=128&bold=true",
+    "attendance": 94,
+    "overallCompletion": 85,
+    "phone": "+919876543219"
+  },
+  {
+    "id": "STU_020",
+    "name": "Karan Singhania",
+    "email": "karan.singhania@edutrack.in",
+    "avatar": "https://ui-avatars.com/api/?name=Karan+Singhania&background=be185d&color=fff&size=128&bold=true",
+    "attendance": 72,
+    "overallCompletion": 42,
+    "phone": "+919876543220"
+  }
+]
