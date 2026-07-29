@@ -1,0 +1,23 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "hosting": {
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "firestore.rules",
+      "firestore.indexes.json",
+      ".git/**",
+      ".DS_Store",
+      "README.md",
+      "assets/css/tailwind.input.css",
+      "docs/**",
+      "data/**",
+      "*.docx"
+    ],
+    "cleanUrls": false,
+    "trailingSlash": false
+  }
+}

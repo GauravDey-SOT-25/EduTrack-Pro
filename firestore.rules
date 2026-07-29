@@ -1,0 +1,53 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return signedIn() && request.auth.uid == userId;
+    }
+
+    function isInstructor() {
+      return signedIn() &&
+        get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'instructor';
+    }
+
+    match /users/{userId} {
+      allow get: if isOwner(userId) || isInstructor();
+      allow list: if isInstructor();
+      // User profiles and roles should be provisioned by a trusted admin process.
+      allow create: if false;
+      allow update: if isOwner(userId)
+        && request.resource.data.role == resource.data.role
+        && request.resource.data.email == resource.data.email;
+      allow delete: if false;
+    }
+
+    match /courses/{courseId} {
+      allow read: if signedIn();
+      allow write: if false;
+    }
+
+    match /enrollments/{enrollmentId} {
+      allow read: if isOwner(resource.data.studentId) || isInstructor();
+      allow write: if false;
+    }
+
+    match /assessments/{assessmentId} {
+      allow read: if isOwner(resource.data.studentId) || isInstructor();
+      allow write: if false;
+    }
+
+    match /attendance/{attendanceId} {
+      allow read: if isOwner(resource.data.studentId) || isInstructor();
+      allow write: if false;
+    }
+
+    match /activities/{activityId} {
+      allow read: if isOwner(resource.data.userId) || isInstructor();
+      allow write: if false;
+    }
+  }
+}
