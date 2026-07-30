@@ -6,12 +6,12 @@
  * access is enforced by Firebase Authentication and Firestore rules.
  */
 export const firebaseConfig = {
-  apiKey: "REPLACE_WITH_FIREBASE_API_KEY",
-  authDomain: "REPLACE_WITH_PROJECT.firebaseapp.com",
-  projectId: "REPLACE_WITH_PROJECT_ID",
-  storageBucket: "REPLACE_WITH_PROJECT.firebasestorage.app",
-  messagingSenderId: "REPLACE_WITH_SENDER_ID",
-  appId: "REPLACE_WITH_APP_ID"
+  apiKey: "AIzaSyDjjP160f2Y9GxvWaeDpqQN5SybddgwHlY",
+  authDomain: "edutrack-pro-57727.firebaseapp.com",
+  projectId: "edutrack-pro-57727",
+  storageBucket: "edutrack-pro-57727.firebasestorage.app",
+  messagingSenderId: "845208821880",
+  appId: "1:845208821880:web:af36ef5e5e1abb03fa0d8d"
 };
 
 export const appConfig = {
