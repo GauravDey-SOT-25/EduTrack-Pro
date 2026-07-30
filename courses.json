@@ -1,0 +1,102 @@
+[
+  {
+    "courseId": "COURSE_001",
+    "title": "JavaScript Fundamentals",
+    "description": "Master the core concepts of JavaScript including variables, functions, closures, promises, and ES6+ features. Build real-world projects from day one.",
+    "thumbnail": "https://ui-avatars.com/api/?name=JS+Fundamentals&background=f59e0b&color=0f172a&size=256&bold=true&length=2",
+    "instructor": "Dr. Rajeev Menon",
+    "totalModules": 14,
+    "completedModules": 14,
+    "status": "completed"
+  },
+  {
+    "courseId": "COURSE_002",
+    "title": "Data Structures & Algorithms",
+    "description": "A rigorous introduction to classic data structures (arrays, trees, graphs, hash maps) and algorithmic thinking with complexity analysis.",
+    "thumbnail": "https://ui-avatars.com/api/?name=DSA&background=6366f1&color=fff&size=256&bold=true&length=3",
+    "instructor": "Prof. Sunita Ghosh",
+    "totalModules": 20,
+    "completedModules": 16,
+    "status": "active"
+  },
+  {
+    "courseId": "COURSE_003",
+    "title": "React & Modern Frontend",
+    "description": "Build dynamic, component-driven UIs using React 18. Covers hooks, state management, context API, routing, and performance optimization.",
+    "thumbnail": "https://ui-avatars.com/api/?name=React&background=06b6d4&color=fff&size=256&bold=true&length=2",
+    "instructor": "Ms. Kavita Reddy",
+    "totalModules": 16,
+    "completedModules": 8,
+    "status": "active"
+  },
+  {
+    "courseId": "COURSE_004",
+    "title": "Python for Data Science",
+    "description": "Comprehensive Python course covering NumPy, Pandas, Matplotlib, and Scikit-learn for data analysis, visualization, and machine learning.",
+    "thumbnail": "https://ui-avatars.com/api/?name=Python+DS&background=10b981&color=fff&size=256&bold=true&length=2",
+    "instructor": "Dr. Alok Tiwari",
+    "totalModules": 18,
+    "completedModules": 10,
+    "status": "active"
+  },
+  {
+    "courseId": "COURSE_005",
+    "title": "Database Design & SQL",
+    "description": "Learn relational database concepts, ER modelling, normalization (1NF–3NF), and write complex SQL queries including joins, subqueries, and window functions.",
+    "thumbnail": "https://ui-avatars.com/api/?name=SQL+DB&background=8b5cf6&color=fff&size=256&bold=true&length=2",
+    "instructor": "Prof. Meghna Pillai",
+    "totalModules": 12,
+    "completedModules": 12,
+    "status": "completed"
+  },
+  {
+    "courseId": "COURSE_006",
+    "title": "Cloud Computing with AWS",
+    "description": "Explore core AWS services including EC2, S3, RDS, Lambda, and CloudFront. Build scalable, fault-tolerant cloud architectures.",
+    "thumbnail": "https://ui-avatars.com/api/?name=AWS+Cloud&background=f97316&color=fff&size=256&bold=true&length=2",
+    "instructor": "Mr. Sanjay Kulkarni",
+    "totalModules": 15,
+    "completedModules": 5,
+    "status": "active"
+  },
+  {
+    "courseId": "COURSE_007",
+    "title": "UI/UX Design Principles",
+    "description": "Deep dive into user-centred design thinking, wireframing, prototyping, accessibility standards, and usability testing methodologies.",
+    "thumbnail": "https://ui-avatars.com/api/?name=UX+Design&background=ec4899&color=fff&size=256&bold=true&length=2",
+    "instructor": "Ms. Deepa Anand",
+    "totalModules": 10,
+    "completedModules": 4,
+    "status": "active"
+  },
+  {
+    "courseId": "COURSE_008",
+    "title": "DevOps & CI/CD Pipelines",
+    "description": "Understand DevOps culture, containerisation with Docker, orchestration with Kubernetes, and building CI/CD pipelines using GitHub Actions and Jenkins.",
+    "thumbnail": "https://ui-avatars.com/api/?name=DevOps&background=14b8a6&color=fff&size=256&bold=true&length=2",
+    "instructor": "Mr. Nikhil Batra",
+    "totalModules": 13,
+    "completedModules": 0,
+    "status": "draft"
+  },
+  {
+    "courseId": "COURSE_009",
+    "title": "Cybersecurity Essentials",
+    "description": "Understand threat landscapes, encryption, network security, OWASP Top 10 vulnerabilities, penetration testing fundamentals, and security best practices.",
+    "thumbnail": "https://ui-avatars.com/api/?name=Cyber+Sec&background=ef4444&color=fff&size=256&bold=true&length=2",
+    "instructor": "Dr. Pradeep Nayak",
+    "totalModules": 11,
+    "completedModules": 11,
+    "status": "completed"
+  },
+  {
+    "courseId": "COURSE_010",
+    "title": "Machine Learning A–Z",
+    "description": "From linear regression to deep neural networks — this course covers supervised, unsupervised, and reinforcement learning with TensorFlow and PyTorch.",
+    "thumbnail": "https://ui-avatars.com/api/?name=ML+A-Z&background=7c3aed&color=fff&size=256&bold=true&length=2",
+    "instructor": "Prof. Anitha Subramanian",
+    "totalModules": 22,
+    "completedModules": 9,
+    "status": "active"
+  }
+]
